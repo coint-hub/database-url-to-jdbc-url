@@ -1,0 +1,5 @@
+# prettier
+node_modules/
+
+# webstorm
+.idea/
